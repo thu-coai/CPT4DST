@@ -1,0 +1,6 @@
+numpy==1.19.5
+pytorch-lightning==1.2.5
+tokenizers==0.10.3
+torch==1.8.1+cu101
+tqdm==4.51.0
+transformers==4.6.1
